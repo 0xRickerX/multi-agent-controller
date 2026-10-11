@@ -1,0 +1,14 @@
+{
+  "controller": {
+    "max_agents_per_task": 4,
+    "verification_required": true,
+    "parallel_execution": true,
+    "min_match_score": 0.45
+  },
+  "weights": {
+    "skill_match": 0.55,
+    "reputation": 0.2,
+    "availability": 0.15,
+    "cost_efficiency": 0.1
+  }
+}
